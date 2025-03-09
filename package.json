@@ -19,13 +19,13 @@
 		"@sapphire/ts-config": "^5.0.1",
 		"@snowcrystals/prettier-config": "^1.0.0",
 		"@snowcrystals/eslint-config": "^1.0.2",
-		"@types/node": "^20.17.22",
+		"@types/node": "^20.17.24",
 		"eslint": "^8.57.1",
 		"husky": "^9.1.7",
 		"is-ci": "^3.0.1",
 		"lint-staged": "^15.4.3",
 		"nodemon": "^3.1.9",
-		"prettier": "^3.5.2",
+		"prettier": "^3.5.3",
 		"typescript": "5.8.2"
 	},
 	"engines": {
